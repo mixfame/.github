@@ -1,2 +1,2 @@
-# .github
-Welcome to Mixfame
+# Welcome to mixfame
+
